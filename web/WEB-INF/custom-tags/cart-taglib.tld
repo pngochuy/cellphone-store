@@ -1,0 +1,17 @@
+
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+
+    <tlib-version>1.0</tlib-version>
+    <short-name>CartTagLib</short-name>
+    <uri>/WEB-INF/custom-tags/cart-taglib</uri>
+
+    <tag>
+        <name>cartItems</name>
+        <!--<tag-class>com.example.CartItemsTag</tag-class>-->
+        <tag-class>tags.CartItemsTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
