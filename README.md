@@ -31,5 +31,5 @@ PhoneShop is an Ecommerce platform specializing in selling high-quality smartpho
 3. Contributing:
   We welcome contributions! If you'd like to contribute to the project, please follow our [Contribution Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors).
 4. License:
-  This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the Apache License - see the LICENSE file for details.
 
