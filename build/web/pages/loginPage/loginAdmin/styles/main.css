@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 25, 2023, 8:23:02 PM
+    Author     : PC
+*/
+
+.main-container {
+  background-color: rgb(30, 58, 138);
+  width: 100vw;
+  height: 100vh;
+}
