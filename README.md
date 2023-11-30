@@ -24,7 +24,7 @@ PhoneShop is an Ecommerce platform specializing in selling high-quality smartpho
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/phone-shop.git
+   git clone https://github.com/pngochuy/cellphone-store.git
    
 2. Project Structure:
 
