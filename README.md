@@ -4,7 +4,7 @@
 
 ## Overview
 
-PhoneShop is an Ecommerce platform specializing in selling high-quality smartphones. This project aims to provide users with a seamless shopping experience for purchasing the latest and most popular mobile devices.
+CellphoneStore is an Ecommerce platform specializing in selling high-quality smartphones. This project aims to provide users with a seamless shopping experience for purchasing the latest and most popular mobile devices.
 
 ## Features
 
