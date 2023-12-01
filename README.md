@@ -1,4 +1,4 @@
-# PhoneShop Ecommerce Project
+# CellphoneStore Ecommerce Project
 
 <img src="web/pages/loginPage/loginAdmin/images/Huy-Store-Logo.png" alt="PhoneShop Logo" width="150"/>
 
